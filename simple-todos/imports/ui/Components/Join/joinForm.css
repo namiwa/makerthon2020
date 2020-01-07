@@ -1,0 +1,18 @@
+.close-form {
+    border-radius: 0%;
+    opacity: 0.65;
+    padding: 2em;
+}
+
+.event-name {
+    font-size: medium;
+}
+
+.ui.icon.button {
+    background-color: transparent;
+}
+
+/* .ui.button.sign-up {
+    display: block;
+    margin: 0 auto;
+} */

@@ -1,0 +1,10 @@
+#create-form {
+    display: block;
+    text-align: center;
+    margin:1%;
+}
+
+#form-field {
+    margin-left: 30%;
+    margin-right: 30%;
+}
