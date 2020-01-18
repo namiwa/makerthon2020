@@ -8,11 +8,11 @@ On CLI:
 `meteor`
 
 ## Packages used
-These are the packaged I installed using `meteor npm install` or `meteor add` that I used in the code
+These are the packaged installed using `meteor npm install` or `meteor add`
 - [Semantic UI React](https://react.semantic-ui.com/)
-- [Headless-chrome-crawler]
-- [Puppeteer]
-- [Cheerio]
+- [headless-chrome-crawler]
+- [puppeteer]
+- [cheerio]
 
 ## Extensions
 Do if we have time (not as necessary)
@@ -27,3 +27,5 @@ Do if we have time (not as necessary)
 
 ##### Future Developement
 - Removed developement firebase auth key, do associate a personal one and remember to not commit the keys into the repo!
+
+Developed by Team Connect, consisting of [Teddy](https://github.com/Joejtx), [Arun](https://github.com/ArunBeCoding), [Ivan](https://github.com/Ivanlxw) and [Iman](https://github.com/namiwa)
