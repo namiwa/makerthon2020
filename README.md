@@ -10,9 +10,9 @@ On CLI:
 ## Packages used
 These are the packaged installed using `meteor npm install` or `meteor add`
 - [Semantic UI React](https://react.semantic-ui.com/)
-- [headless-chrome-crawler]
-- [puppeteer]
-- [cheerio]
+- [headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler)
+- [puppeteer](https://github.com/puppeteer/puppeteer)
+- [cheerio](https://github.com/cheeriojs/cheerio)
 
 ## Extensions
 Do if we have time (not as necessary)
